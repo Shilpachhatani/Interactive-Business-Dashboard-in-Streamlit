@@ -81,7 +81,7 @@ Data cleaning steps performed in `app.py`:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AhsanNFt/Interactive-Business-Dashboard-in-Streamlit.git
+git clone https://github.com/Shilpachhatani/Interactive-Business-Dashboard-in-Streamlit.git
 cd Interactive-Business-Dashboard-in-Streamlit
 
 # 2. Create virtual environment (optional but recommended)
@@ -147,7 +147,7 @@ Open a pull request for review.
 
 ## 📬 Contact
 
-- **GitHub**: `AhsanNFt`
-- **Email**: syedahsan0991@gmail.com
+- **GitHub**: `Shilpachhatani`
+- **Email**: shilpachhatani669@gmail.com
 
 > _Designed with ❤️ — Interactive BI Dashboard | Streamlit | Global Superstore Dataset_
